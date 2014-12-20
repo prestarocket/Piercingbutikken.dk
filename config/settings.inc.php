@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', 'localhost');
+define('_DB_NAME_', 'piercingbutikken');
+define('_DB_USER_', 'root');
+define('_DB_PASSWD_', 'root');
+define('_DB_PREFIX_', 'ps_');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', 'QtHRJEkNefMBKiY5ZALMUWvd2nGW646sbyIPFw4rQdFB0nmva7r42U1Z');
+define('_COOKIE_IV_', '9hRupk5R');
+define('_PS_CREATION_DATE_', '2014-12-20');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', 'pU0xSTVEJFS5xQyYHuz6xuKCLmbuo3y9');
+define('_RIJNDAEL_IV_', 'AapO+g+a+DcKxV1IdZbj1w==');

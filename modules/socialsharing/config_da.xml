@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>socialsharing</name>
+	<displayName><![CDATA[Del p&aring; de sociale medier]]></displayName>
+	<version><![CDATA[1.2.9]]></version>
+	<description><![CDATA[Viser en knap til deling p&aring; sociale medier (Twitter, Facebook, Google+ og Pinterest) p&aring; hver produktside.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

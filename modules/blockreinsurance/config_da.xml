@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockreinsurance</name>
+	<displayName><![CDATA[Blok kundegenforsikring]]></displayName>
+	<version><![CDATA[2.1.1]]></version>
+	<description><![CDATA[Tilf&oslash;j en blok med information om kundegenforsikring, for at f&aring; din butik til at virke mere p&aring;lidelig.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

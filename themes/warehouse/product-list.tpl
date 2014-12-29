@@ -141,7 +141,7 @@
 					<h5 itemprop="name" class="product-name-container">
 						{if isset($product.pack_quantity) && $product.pack_quantity}{$product.pack_quantity|intval|cat:' x '}{/if}
 						<a class="product-name" href="{$product.link|escape:'html':'UTF-8'}" title="{$product.name|escape:'html':'UTF-8'}" itemprop="url" >
-							{$product.name|truncate:60:'...'|escape:'html':'UTF-8'}
+							{$product.name|truncate:90:'...'|escape:'html':'UTF-8'}
 						</a>
 					</h5>
 					{if isset($product.reference)}<span class="product-reference">{$product.reference}</span>{/if}

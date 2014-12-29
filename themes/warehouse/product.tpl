@@ -277,7 +277,10 @@
 					{/if}-->
 				</div> <!-- end short_description_block -->
 			{/if}
-			{if $PS_STOCK_MANAGEMENT}<div class="available-box">{/if}
+
+			<!-- UDKOMMENTERET DA DEN IKKE BLEV FJERNET VED DEAKTIVERING I BACKEND -->
+
+			{* {if $PS_STOCK_MANAGEMENT}<div class="available-box">{/if}
 			{if ($display_qties == 1 && !$PS_CATALOG_MODE && $PS_STOCK_MANAGEMENT && $product->available_for_order)}
 				<!-- number of item in stock -->
 				<p id="pQuantityAvailable"{if $product->quantity <= 0} style="display: none;"{/if}>
@@ -289,7 +292,7 @@
 			{if $PS_STOCK_MANAGEMENT}
 				<!-- availability -->
 				<p id="availability_statut"{if ($product->quantity <= 0 && !$product->available_later && $allow_oosp) || ($product->quantity > 0 && !$product->available_now) || !$product->available_for_order || $PS_CATALOG_MODE} style="display: none;"{/if}>
-					{*<span id="availability_label">{l s='Availability:'}</span>*}
+					{*<span id="availability_label">{l s='Availability:'}</span>
 					<span id="availability_value"{if $product->quantity <= 0 && !$allow_oosp} class="warning_inline"{/if}>{if $product->quantity <= 0}{if $allow_oosp}{$product->available_later}{else}{l s='This product is no longer in stock'}{/if}{else}{$product->available_now}{/if}</span>
 				</p>
 				{hook h="displayProductDeliveryTime" product=$product}
@@ -303,7 +306,9 @@
 			<div id="oosHook"{if $product->quantity > 0} style="display: none;"{/if}>
 				{$HOOK_PRODUCT_OOS}
 			</div>
-			{if $PS_STOCK_MANAGEMENT}</div>{/if}
+			{if $PS_STOCK_MANAGEMENT}</div>{/if}*}
+
+
 			<!-- buy block -->
 			{if ($product->show_price && !isset($restricted_country_mode)) || isset($groups) || $product->reference || (isset($HOOK_PRODUCT_ACTIONS) && $HOOK_PRODUCT_ACTIONS)}
 			<!-- add to cart form-->

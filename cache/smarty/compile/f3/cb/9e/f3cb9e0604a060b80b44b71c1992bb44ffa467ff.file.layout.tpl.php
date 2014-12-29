@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2014-12-29 03:13:35
+<?php /* Smarty version Smarty-3.1.19, created on 2014-12-29 04:13:09
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/administration/themes/default/template/layout.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:123872888554a0b8cfb077f6-76345017%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:45201616354a0c6c5538846-50160823%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '123872888554a0b8cfb077f6-76345017',
+  'nocache_hash' => '45201616354a0c6c5538846-50160823',
   'function' => 
   array (
   ),
@@ -32,9 +32,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54a0b8cfc089d8_62687305',
+  'unifunc' => 'content_54a0c6c5655233_96404885',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54a0b8cfc089d8_62687305')) {function content_54a0b8cfc089d8_62687305($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54a0c6c5655233_96404885')) {function content_54a0c6c5655233_96404885($_smarty_tpl) {?>
 <?php echo $_smarty_tpl->tpl_vars['header']->value;?>
 
 <?php if (isset($_smarty_tpl->tpl_vars['conf']->value)) {?>

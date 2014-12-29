@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2014-12-29 03:13:31
+<?php /* Smarty version Smarty-3.1.19, created on 2014-12-29 04:10:02
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/administration/themes/default/template/controllers/modules/modal_translation.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:56229859954a0b8cbb6d5c5-73599494%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:214286302654a0c60a4c3cd9-83246148%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '56229859954a0b8cbb6d5c5-73599494',
+  'nocache_hash' => '214286302654a0c60a4c3cd9-83246148',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54a0b8cbbb9807_59218853',
+  'unifunc' => 'content_54a0c60a50e0a5_78781364',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54a0b8cbbb9807_59218853')) {function content_54a0b8cbbb9807_59218853($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54a0c60a50e0a5_78781364')) {function content_54a0c60a50e0a5_78781364($_smarty_tpl) {?>
 <div class="modal-body">
 	<div class="input-group">
 		<button type="button" class="btn btn-default dropdown-toggle" tabindex="-1" data-toggle="dropdown">

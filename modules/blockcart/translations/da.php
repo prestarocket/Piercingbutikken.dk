@@ -2,11 +2,10 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockcart}prestashop>blockcart_c2e1362a9710a3dd86f937c2ea1f336d'] = 'Kurv blok';
 $_MODULE['<{blockcart}prestashop>blockcart_e03093a5753b436ee1de63b6e3e1bd02'] = 'Tilføjer en blok, der indeholder kundens indkøbskurv.';
 $_MODULE['<{blockcart}prestashop>blockcart_a21e5718d2a196280b729438933501c7'] = 'Ajax: Ugyldigt valg.';
-$_MODULE['<{blockcart}prestashop>blockcart_02c793e3df4632db20e4d6e146095d62'] = 'Venligst udfyld "Varer at vise"-feltet.';
+$_MODULE['<{blockcart}prestashop>blockcart_02c793e3df4632db20e4d6e146095d62'] = 'Venligst udfyld \"Varer at vise\"-feltet.';
 $_MODULE['<{blockcart}prestashop>blockcart_c888438d14855d7d96a2724ee9c306bd'] = 'Indstillinger opdateret';
 $_MODULE['<{blockcart}prestashop>blockcart_f4f70727dc34561dfde1a3c529b6205c'] = 'Indstillinger';
 $_MODULE['<{blockcart}prestashop>blockcart_614a8820aa4ac08ce2ee398a41b10778'] = 'Ajax kurv';
@@ -41,17 +40,3 @@ $_MODULE['<{blockcart}prestashop>crossselling_ef2b66b0b65479e08ff0cce29e19d006']
 $_MODULE['<{blockcart}prestashop>crossselling_dd1f775e443ff3b9a89270713580a51b'] = 'Forrige';
 $_MODULE['<{blockcart}prestashop>crossselling_4351cfebe4b61d8aa5efa1d020710005'] = 'Vis';
 $_MODULE['<{blockcart}prestashop>crossselling_10ac3d04253ef7e1ddc73e6091c0cd55'] = 'Næste';
-$_MODULE['<{blockcart}prestashop>blockcart_98b3009e61879600839e1ee486bb3282'] = 'Luk vindue';
-$_MODULE['<{blockcart}prestashop>blockcart_544c3bd0eac526113a9c66542be1e5bc'] = 'Varen er nu lagt i din kurv';
-$_MODULE['<{blockcart}prestashop>blockcart_694e8d1f2ee056f98ee488bdc4982d73'] = 'Antal';
-$_MODULE['<{blockcart}prestashop>blockcart_e5694b7726ceaf2f057e5f06cf86209e'] = 'Der er [1]%d[/1] varer i din kurv';
-$_MODULE['<{blockcart}prestashop>blockcart_fc86c43dbffcadc193832a310f7a444a'] = 'Der er 1 vare i din kurv';
-$_MODULE['<{blockcart}prestashop>blockcart_db205f01b4fd580fb5daa9072d96849d'] = 'Varer i alt';
-$_MODULE['<{blockcart}prestashop>blockcart_21034ae6d01a83e702839a72ba8a77b0'] = '(ekskl. moms)';
-$_MODULE['<{blockcart}prestashop>blockcart_1f87346a16cf80c372065de3c54c86d9'] = '(inkl. moms)';
-$_MODULE['<{blockcart}prestashop>blockcart_f4e8b53a114e5a17d051ab84d326cae5'] = 'Forsendelse i alt';
-$_MODULE['<{blockcart}prestashop>blockcart_300225ee958b6350abc51805dab83c24'] = 'Fortsæt indkøb';
-$_MODULE['<{blockcart}prestashop>blockcart_7e0bf6d67701868aac3116ade8fea957'] = 'Fortsæt til betaling';
-
-
-return $_MODULE;

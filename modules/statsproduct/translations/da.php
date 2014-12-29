@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{statsproduct}prestashop>statsproduct_78e454064a7d3a7755a011a3b79f31a7'] = 'Detaljeret vareinformation';
 $_MODULE['<{statsproduct}prestashop>statsproduct_6602bbeb2956c035fb4cb5e844a4861b'] = 'Vejledning';
 $_MODULE['<{statsproduct}prestashop>statsproduct_6e13e61b8535a66feb27d285f5c42855'] = 'Efter at have valgt en kategori og en vare, vises oplysende grafer. Derefter vil du kunne analysere dem.';
@@ -32,6 +31,3 @@ $_MODULE['<{statsproduct}prestashop>statsproduct_e22269bb51f9f2394e148716babbafb
 $_MODULE['<{statsproduct}prestashop>statsproduct_5e9613e58f3bdbc89b1fef07274c0877'] = 'Besøg (x 100)';
 $_MODULE['<{statsproduct}prestashop>statsproduct_287234a1ff35a314b5b6bc4e5828e745'] = 'Egenskaber';
 $_MODULE['<{statsproduct}prestashop>statsproduct_27ce7f8b5623b2e2df568d64cf051607'] = 'Lager';
-
-
-return $_MODULE;

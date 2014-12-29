@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{statsdata}prestashop>statsdata_a51950bf91ba55cd93a33ce3f8d448c2'] = 'Datamining for statistik';
 $_MODULE['<{statsdata}prestashop>statsdata_c77dfd683d0d76940e5e04cb24e8bce1'] = 'Dette modul skal aktiveres for at kunne benytte Statistik.';
 $_MODULE['<{statsdata}prestashop>statsdata_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Konfiguration opdateret';
@@ -16,6 +15,3 @@ $_MODULE['<{statsdata}prestashop>statsdata_339acfd90b82e91ce9141ec75e4bff24'] = 
 $_MODULE['<{statsdata}prestashop>statsdata_c0e4406117ba4c29c4d66e3069ebf3d3'] = 'Detektering af plug-ins';
 $_MODULE['<{statsdata}prestashop>statsdata_e4af29282b3a403c2b23c2a516bba889'] = 'Plugins detektion indlæser en ekstra 20 kb JavaScript-fil én gang for nye besøgende.';
 $_MODULE['<{statsdata}prestashop>statsdata_c9cc8cce247e49bae79f15173ce97354'] = 'Gem';
-
-
-return $_MODULE;

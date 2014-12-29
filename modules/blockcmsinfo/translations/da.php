@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_988659f6c5d3210a3f085ecfecccf5d3'] = 'Blok til speciel CMS med informationer';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_cd4abd29bdc076fb8fabef674039cd6e'] = 'Tilføjer speciel CMS-blok i shoppen.';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_d52eaeff31af37a4a7e0550008aff5df'] = 'Der er opstået en fejl under lagringen.';
@@ -14,6 +13,3 @@ $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_9d55fc80bbb875322aa67fd22fc9846
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_9f82518d468b9fee614fcc92f76bb163'] = 'Butik';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_56425383198d22fc8bb296bcca26cecf'] = 'Tekst i blok';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_ef61fb324d729c341ea8ab9901e23566'] = 'Tilføj ny';
-
-
-return $_MODULE;

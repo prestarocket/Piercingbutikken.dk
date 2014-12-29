@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockcms}prestashop>blockcms_ca3e06233b736d289df9f4580a4ab19a'] = 'CMS blok';
 $_MODULE['<{blockcms}prestashop>blockcms_cdca12007979fc49008fd125cdb775fc'] = 'Tilføjer en blok med flere CMS links.';
 $_MODULE['<{blockcms}prestashop>blockcms_a82be0f551b8708bc08eb33cd9ded0cf'] = 'Information';
@@ -14,9 +13,9 @@ $_MODULE['<{blockcms}prestashop>blockcms_0a41f7ebbcf8a28362f8635ca8341d28'] = 'N
 $_MODULE['<{blockcms}prestashop>blockcms_528c17398f985a94f4cc7c5b2d32c8c0'] = 'Konfiguration af links i footer';
 $_MODULE['<{blockcms}prestashop>blockcms_6f3ebe2ce8a7c3b873c1003b6ead60df'] = 'Footer links';
 $_MODULE['<{blockcms}prestashop>blockcms_e363df19c685465bca24d0c06d9394c7'] = 'Marker alle sider, du vil vise i footeren for CMS blokken.';
-$_MODULE['<{blockcms}prestashop>blockcms_75cb29c17cf91bef81cc289b0dd1b1fa'] = 'Vis linket "Vores butikker" i footer';
-$_MODULE['<{blockcms}prestashop>blockcms_0e5da791148c92be6eca8c537a47569e'] = 'Vis "Tilbud" i footer';
-$_MODULE['<{blockcms}prestashop>blockcms_45bc5fe3bf5717315e42a831ba7da748'] = 'Vis "Kontakt os" i footer';
+$_MODULE['<{blockcms}prestashop>blockcms_75cb29c17cf91bef81cc289b0dd1b1fa'] = 'Vis linket \"Vores butikker\" i footer';
+$_MODULE['<{blockcms}prestashop>blockcms_0e5da791148c92be6eca8c537a47569e'] = 'Vis \"Tilbud\" i footer';
+$_MODULE['<{blockcms}prestashop>blockcms_45bc5fe3bf5717315e42a831ba7da748'] = 'Vis \"Kontakt os\" i footer';
 $_MODULE['<{blockcms}prestashop>blockcms_68b7b9e603633d155941fb1d665c3997'] = 'Vis sitemap i footer';
 $_MODULE['<{blockcms}prestashop>blockcms_c9cc8cce247e49bae79f15173ce97354'] = 'Gem';
 $_MODULE['<{blockcms}prestashop>blockcms_be58fccb15fb119b8c3d485e3a8561c4'] = 'Konfiguration af CMS blok';
@@ -28,7 +27,7 @@ $_MODULE['<{blockcms}prestashop>blockcms_ac37b115bc4e914c9ab63bd4a1c1746a'] = 'C
 $_MODULE['<{blockcms}prestashop>blockcms_ce5bf551379459c1c61d2a204061c455'] = 'Placering';
 $_MODULE['<{blockcms}prestashop>blockcms_93cba07454f06a4a960172bbd6e2a435'] = 'Ja';
 $_MODULE['<{blockcms}prestashop>blockcms_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Nej';
-$_MODULE['<{blockcms}prestashop>blockcms_9a8d463045dc8c2ad89bcd455fd937e8'] = 'Tilføjer linket "Vores butikker" i slutningen af blokken.';
+$_MODULE['<{blockcms}prestashop>blockcms_9a8d463045dc8c2ad89bcd455fd937e8'] = 'Tilføjer linket \"Vores butikker\" i slutningen af blokken.';
 $_MODULE['<{blockcms}prestashop>blockcms_bbfdbbf61a22c160c5498b6ae08cb356'] = 'CMS indhold';
 $_MODULE['<{blockcms}prestashop>blockcms_04313a11bf4a501b7cf2273ea7b32862'] = 'Marker alle sider, du vil vise i denne blok.';
 $_MODULE['<{blockcms}prestashop>blockcms_0d6d7a7c758cd16507d4aebf18305691'] = 'Ugyldig vist butiksværdi.';
@@ -64,7 +63,3 @@ $_MODULE['<{blockcms}prestashop>form_7dce122004969d56ae2e0245cb754d35'] = 'Redig
 $_MODULE['<{blockcms}prestashop>form_f2a6c498fb90ee345d997f888fce3b18'] = 'Slet';
 $_MODULE['<{blockcms}prestashop>form_49ee3087348e8d44e1feda1917443987'] = 'Navn';
 $_MODULE['<{blockcms}prestashop>form_f7c68d40f8727c658e821c6e6d56af07'] = 'Ingen side oprettet.';
-$_MODULE['<{blockcms}prestashop>blockcms_3cb29f0ccc5fd220a97df89dafe46290'] = 'Mest solgte';
-
-
-return $_MODULE;

@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_bc3e73cfa718a3237fb1d7e1da491395'] = 'Producenter blok';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_71087c7035e626bd33c72ae9a7f042af'] = 'Viser en blok over producenter/mærker.';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_b15e7271053fe9dd22d80db100179085'] = 'Dette modul skal være hooked til en kolonne og der er ikke implementeret en i dit tema';
@@ -22,6 +21,3 @@ $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_2377be3c2ad9b435ba277
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_c70ad5f80e4c6f299013e08cabc980df'] = 'Mere om %s';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_bf24faeb13210b5a703f3ccef792b000'] = 'Alle producenter';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_1c407c118b89fa6feaae6b0af5fc0970'] = 'Ingen producenter';
-
-
-return $_MODULE;

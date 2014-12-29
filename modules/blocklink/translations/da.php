@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blocklink}prestashop>blocklink_fc738410141e4ec0c0319a81255a1431'] = 'Link blok';
 $_MODULE['<{blocklink}prestashop>blocklink_baa2ae9622a47c3217d725d1537e5187'] = 'Tilføjer en blok med yderligere links.';
 $_MODULE['<{blocklink}prestashop>blocklink_8d85948ef8fda09c2100de886e8663e5'] = 'Er du sikker på, at du vil slette alle dine links?';
@@ -10,7 +9,7 @@ $_MODULE['<{blocklink}prestashop>blocklink_666f6333e43c215212b916fef3d94af0'] = 
 $_MODULE['<{blocklink}prestashop>blocklink_9394bb34611399534ffac4f0ece96b7f'] = 'Forkert URL';
 $_MODULE['<{blocklink}prestashop>blocklink_3da9d5745155a430aac6d7de3b6de0c8'] = 'Linket er blevet tilføjet.';
 $_MODULE['<{blocklink}prestashop>blocklink_898536ebd630aa3a9844e9cd9d1ebb9b'] = 'Der opstod en fejl under oprettelse af link.';
-$_MODULE['<{blocklink}prestashop>blocklink_b18032737875f7947443c98824103a1f'] = '"titel" feltet kan ikke være tomt.';
+$_MODULE['<{blocklink}prestashop>blocklink_b18032737875f7947443c98824103a1f'] = '\"titel\" feltet kan ikke være tomt.';
 $_MODULE['<{blocklink}prestashop>blocklink_43b38b9a2fe65059bed320bd284047e3'] = 'Titel feltet er ugyldigt';
 $_MODULE['<{blocklink}prestashop>blocklink_eb74914f2759760be5c0a48f699f8541'] = 'Der opstod en fejl under opdatering af titlen.';
 $_MODULE['<{blocklink}prestashop>blocklink_5c0f7e2db8843204f422a369f2030b37'] = 'Blok titlen er blevet opdateret.';
@@ -28,6 +27,3 @@ $_MODULE['<{blocklink}prestashop>blocklink_b9f5c797ebbf55adccdd8539a65a0241'] = 
 $_MODULE['<{blocklink}prestashop>blocklink_c9cc8cce247e49bae79f15173ce97354'] = 'Gem';
 $_MODULE['<{blocklink}prestashop>blocklink_9d55fc80bbb875322aa67fd22fc98469'] = 'Butikstilknytning';
 $_MODULE['<{blocklink}prestashop>blocklink_b22c8f9ad7db023c548c3b8e846cb169'] = 'Blok titel';
-
-
-return $_MODULE;

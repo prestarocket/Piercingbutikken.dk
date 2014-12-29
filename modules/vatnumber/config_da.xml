@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>vatnumber</name>
+	<displayName><![CDATA[Europ&aelig;isk CVR-nummer]]></displayName>
+	<version><![CDATA[1.7.2]]></version>
+	<description><![CDATA[Aktiver indtastning af det internationale CVR-nummer, n&aring;r du opretter adressen. Du skal udfylde virksomhedsfeltet for at tillade indtastningen af CVR-nummeret.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

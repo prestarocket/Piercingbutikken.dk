@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{statsforecast}prestashop>statsforecast_240c994d8b61c7bd68ac1c5182bbdb2e'] = 'Statistikoversigt';
 $_MODULE['<{statsforecast}prestashop>statsforecast_d7e637a6e9ff116de2fa89551240a94d'] = 'Besøg';
 $_MODULE['<{statsforecast}prestashop>statsforecast_a28735af01fbb1e35371cb120985ac47'] = 'Registreringer';
@@ -40,6 +39,3 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_61569923d8075889a162c4e603258
 $_MODULE['<{statsforecast}prestashop>statsforecast_8471eed257db7258f935588a664ba4f3'] = 'Egenskabsfordeling';
 $_MODULE['<{statsforecast}prestashop>statsforecast_03937134cedab9078be39a77ee3a48a0'] = 'Gruppe';
 $_MODULE['<{statsforecast}prestashop>statsforecast_f2bbdf9f72c085adc4d0404e370f0f4c'] = 'Egenskab';
-
-
-return $_MODULE;

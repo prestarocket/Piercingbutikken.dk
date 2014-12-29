@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockspecials}prestashop>blockspecials_c19ed4ea98cbf319735f6d09bde6c757'] = 'Tilbuds blok';
 $_MODULE['<{blockspecials}prestashop>blockspecials_f5bae06098deb9298cb9ceca89171944'] = 'Tilføjer en blok med dine tilbud.';
 $_MODULE['<{blockspecials}prestashop>blockspecials_b15e7271053fe9dd22d80db100179085'] = 'Dette modul skal være hooked til en kolonne og der er ikke implementeret en i dit tema';
@@ -20,6 +19,3 @@ $_MODULE['<{blockspecials}prestashop>blockspecials_d1aa22a3126f04664e0fe3f598994
 $_MODULE['<{blockspecials}prestashop>blockspecials_b4f95c1ea534936cc60c6368c225f480'] = 'Alle tilbud';
 $_MODULE['<{blockspecials}prestashop>blockspecials_3c9f5a6dc6585f75042bd4242c020081'] = 'Ingen tilbud på dette tidspunkt.';
 $_MODULE['<{blockspecials}prestashop>tab_d1aa22a3126f04664e0fe3f598994014'] = 'Tilbud';
-
-
-return $_MODULE;

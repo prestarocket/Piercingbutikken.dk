@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{dashactivity}prestashop>dashactivity_02b5205ddff3073efc5c8b5b9cc165ba'] = '(fra %s til %s)';
 $_MODULE['<{dashactivity}prestashop>dashactivity_14542f5997c4a02d4276da364657f501'] = 'Direkte link';
 $_MODULE['<{dashactivity}prestashop>dashactivity_c9cc8cce247e49bae79f15173ce97354'] = 'Gem';
@@ -39,6 +38,3 @@ $_MODULE['<{dashactivity}prestashop>dashboard_zone_one_1a4aeb4ca6cd736a4a7b25d86
 $_MODULE['<{dashactivity}prestashop>dashboard_zone_one_d7e637a6e9ff116de2fa89551240a94d'] = 'Besøg';
 $_MODULE['<{dashactivity}prestashop>dashboard_zone_one_945f170a18e4894c90381a3d01bdef8b'] = 'Unikke besøgende';
 $_MODULE['<{dashactivity}prestashop>dashboard_zone_one_0fcff541ec15c6ed895d5dec49436488'] = 'Trafik kilder';
-
-
-return $_MODULE;

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocknewsletter</name>
+	<displayName><![CDATA[Nyhedsbrev blok]]></displayName>
+	<version><![CDATA[2.1.3]]></version>
+	<description><![CDATA[Tilf&oslash;jer en blok til tilmelding af nyhedsbrev.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Er du sikker på, at du vil slette alle dine kontakter?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

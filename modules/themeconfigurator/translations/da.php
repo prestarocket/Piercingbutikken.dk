@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_e92dabb4907f1957cabc469cca4deefc'] = 'Tema konfiguration';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_cf8fdaf6e745133c90516eb9b74e31c3'] = 'Tilpas de overordnede elementer af dit tema.';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_3ee0c881516fce384747e3107dbfc538'] = 'Ugyldigt indhold';
@@ -33,7 +32,6 @@ $_MODULE['<{themeconfigurator}prestashop>new_2c92d496fa8efe3d5b2b38c185f9b7f7'] 
 $_MODULE['<{themeconfigurator}prestashop>new_b9b371458ab7c314f88b81c553f6ce51'] = 'Hook';
 $_MODULE['<{themeconfigurator}prestashop>new_be53a0541a6d36f6ecb879fa2c584b08'] = 'Billede';
 $_MODULE['<{themeconfigurator}prestashop>new_6fed80a8c8ded2f5e14a687e4a443abc'] = 'Billedbredde';
-$_MODULE['<{themeconfigurator}prestashop>new_21de26caa6bcfc936378c4e45d235bd9'] = 'px';
 $_MODULE['<{themeconfigurator}prestashop>new_2aa3aa9d021c7cfffb5afa08f52fbc51'] = 'Billedhøjde';
 $_MODULE['<{themeconfigurator}prestashop>new_e6b391a8d2c4d45902a23a8b6585703d'] = 'URL';
 $_MODULE['<{themeconfigurator}prestashop>new_4c87eb073eb09f42281d7e67aeacb223'] = 'Nyt vindue';
@@ -45,6 +43,3 @@ $_MODULE['<{themeconfigurator}prestashop>live_configurator_9a2c00f5f6df185a8d7d4
 $_MODULE['<{themeconfigurator}prestashop>live_configurator_ea3aba27f515989b46d990e95a097818'] = 'Vælg en skrifttype';
 $_MODULE['<{themeconfigurator}prestashop>live_configurator_526d688f37a86d3c3f27d0c5016eb71d'] = 'Nulstil';
 $_MODULE['<{themeconfigurator}prestashop>live_configurator_c9cc8cce247e49bae79f15173ce97354'] = 'Gem';
-
-
-return $_MODULE;

@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{dashtrends}prestashop>dashtrends_ee653ade5f520037ef95e9dc2a42364c'] = 'Kontrolpanels Trends';
 $_MODULE['<{dashtrends}prestashop>dashtrends_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Salg';
 $_MODULE['<{dashtrends}prestashop>dashtrends_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Ordrer';
@@ -19,6 +18,3 @@ $_MODULE['<{dashtrends}prestashop>dashboard_zone_two_791d6355d34dfaf60d68ef04d1e
 $_MODULE['<{dashtrends}prestashop>dashboard_zone_two_d7e637a6e9ff116de2fa89551240a94d'] = 'Besøg';
 $_MODULE['<{dashtrends}prestashop>dashboard_zone_two_e4c3da18c66c0147144767efeb59198f'] = 'Konverteringsgrad';
 $_MODULE['<{dashtrends}prestashop>dashboard_zone_two_43d729c7b81bfa5fc10e756660d877d1'] = 'Netto';
-
-
-return $_MODULE;

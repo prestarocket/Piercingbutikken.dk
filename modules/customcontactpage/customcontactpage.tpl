@@ -27,8 +27,8 @@
 <!-- MODULE Block contact infos -->
 <section id="customcontactpage">
 	<div class="row">
-	<div class="col-xs-12 col-sm-8">
-	<div id="mapcontact"></div>
+	<!--<div class="col-xs-12 col-sm-8">-->
+    <!--<div id="mapcontact"></div>-->
 	</div>	
 	<div class="text_info col-xs-12 col-sm-4">
         <h4 class="page-subheading">{l s='Store Information' mod='customcontactpage'}</h4>

@@ -15,14 +15,14 @@
 			.flexslider_carousel .direction-nav a{ color: #dddddd !important; }
 			.flexslider_carousel .direction-nav a:hover{ color: #333333 !important;  }
 		#product_condition{ display: none; }
-		.new-label{color: #ffffff !important; background: #e7be5c !important;} 
+		.new-label{color: #ffffff !important; background: #835B5F !important;} 
 		.sale-label, .price-percent-reduction, #reduction_percent, #reduction_amount{color: #ffffff !important; background: #1cacb7 !important;}  
 		.online-label{color: #777777 !important; background: #ffffff !important;}   
 		#availability_value, .cart_avail .label-success{color: #ffffff !important; background: #72bb78 !important;} 
 		ul.product_list .availability span.out-of-stock, .flexslider_carousel .availability span.out-of-stock, #availability_statut #availability_value.warning_inline,
 		#last_quantities, ul.product_list .availability .available-dif, .flexslider_carousel .availability .available-dif
 		{color: #ff7430 !important; background: #ffffff !important;}   
-		.price.product-price, .our_price_display, .special-price{color: #f13340 !important; }
+		.price.product-price, .our_price_display, .special-price{color: #A0687B !important; }
 		div.star.star_on:after, div.star.star_hover:after{color: #8d8d8d !important;}  
 
 		.yotpo .yotpo-bottomline .icon-star, .yotpo .yotpo-bottomline .icon-half-star, .yotpo .yotpo-bottomline .icon-empty-star, 
@@ -134,7 +134,7 @@
 			.footer-container .footer-container-inner a:hover{color: #333333 !important; }  
 
 			.footer-container .footer-container-inner h4, .footer-container .footer-container-inner h4 a, .footer-container .footer-container-inner h4 a:link, .footer-container .footer-container-inner h4 a:hover{color: #555454 !important; }  
-			#social_block_mod li a{background-color: #b6b6b6 !important; }
+			#social_block_mod li a{background-color: #3B5998 !important; }
 		#social_block_mod li a:before{ color: #ffffff !important;}
 		 /* move up menu - helpfull when menu is white */
 .megamenuiqit .container > .row{margin-top: -10px;}

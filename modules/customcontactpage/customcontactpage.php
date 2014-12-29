@@ -109,9 +109,9 @@ class CustomContactPage extends Module
 		if ($this->page_name == 'contact')
 		{
 		$default_country = new Country((int)Configuration::get('PS_COUNTRY_DEFAULT'));
-	
 
-		if((Configuration::get('PS_SSL_ENABLED')))
+
+			/*if((Configuration::get('PS_SSL_ENABLED')))
 		$apiUrl = 'https://maps-api-ssl.google.com/maps/api/js?sensor=true&amp;region='.substr($default_country->iso_code, 0, 2);
 			else
 		$apiUrl = 'http://maps.google.com/maps/api/js?sensor=true&amp;region='.substr($default_country->iso_code, 0, 2);
@@ -120,9 +120,9 @@ class CustomContactPage extends Module
 				'apiurl' => $apiUrl,
 			));
 
-		$this->context->controller->addJS(($this->_path).'customcontactpage.js');
+		$this->context->controller->addJS(($this->_path).'customcontactpage.js.old');
 		$this->context->controller->addCSS(($this->_path).'customcontactpage.css', 'all');
-		return $this->display(__FILE__, 'apiurl.tpl');
+		return $this->display(__FILE__, 'apiurl.tpl');*/
 		}
 	}
 	

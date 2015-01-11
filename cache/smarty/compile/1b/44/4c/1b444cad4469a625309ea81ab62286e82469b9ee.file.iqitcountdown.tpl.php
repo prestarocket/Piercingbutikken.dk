@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-07 18:56:09
+<?php /* Smarty version Smarty-3.1.19, created on 2015-01-11 14:15:24
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/modules/iqitcountdown/iqitcountdown.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:122036141654ad73395db378-21340683%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:165866406854b2776cb36088-67946334%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '122036141654ad73395db378-21340683',
+  'nocache_hash' => '165866406854b2776cb36088-67946334',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54ad73396019f7_96773747',
+  'unifunc' => 'content_54b2776cc4cb77_35192759',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54ad73396019f7_96773747')) {function content_54ad73396019f7_96773747($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_54b2776cc4cb77_35192759')) {function content_54b2776cc4cb77_35192759($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/modifier.date_format.php';
 ?><?php if ((smarty_modifier_date_format(time(),'%Y-%m-%d %H:%M:%S')<$_smarty_tpl->tpl_vars['specific_prices']->value['to'])) {?>
 <span class="price-countdown">
 <strong class="price-countdown-title"><?php echo smartyTranslate(array('s'=>'Special price ends on','mod'=>'iqitcountdown'),$_smarty_tpl);?>

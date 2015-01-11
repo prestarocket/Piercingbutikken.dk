@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-07 18:56:07
+<?php /* Smarty version Smarty-3.1.19, created on 2015-01-11 14:21:08
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/themes/warehouse/modules/blockcart/blockcart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:127014601754ad7337cb4f70-71562537%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:99532101054b278c4c426f2-29912173%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '127014601754ad7337cb4f70-71562537',
+  'nocache_hash' => '99532101054b278c4c426f2-29912173',
   'function' => 
   array (
   ),
@@ -53,9 +53,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54ad7338616c52_51938657',
+  'unifunc' => 'content_54b278c56c59f4_30407082',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54ad7338616c52_51938657')) {function content_54ad7338616c52_51938657($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/modifier.replace.php';
+<?php if ($_valid && !is_callable('content_54b278c56c59f4_30407082')) {function content_54b278c56c59f4_30407082($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/modifier.replace.php';
 if (!is_callable('smarty_function_counter')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/function.counter.php';
 ?>
 <!-- MODULE Block cart -->

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-07 18:56:08
+<?php /* Smarty version Smarty-3.1.19, created on 2015-01-11 14:15:23
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/themes/warehouse/product-list-colors.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:150378784354ad7338c94d94-06348834%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2088686654b2776bc55bc6-45934614%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '150378784354ad7338c94d94-06348834',
+  'nocache_hash' => '2088686654b2776bc55bc6-45934614',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54ad7338d24c84_82831288',
+  'unifunc' => 'content_54b2776bd9ca03_39218666',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54ad7338d24c84_82831288')) {function content_54ad7338d24c84_82831288($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54b2776bd9ca03_39218666')) {function content_54b2776bd9ca03_39218666($_smarty_tpl) {?>
 
 <ul class="color_to_pick_list clearfix">
 <?php  $_smarty_tpl->tpl_vars['color'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['color']->_loop = false;

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-07 18:56:09
+<?php /* Smarty version Smarty-3.1.19, created on 2015-01-11 14:15:25
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/modules/ph_recentposts/views/templates/hook/recent.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:108789821454ad73397f4967-65895070%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:12075841154b2776d449818-37877760%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '108789821454ad73397f4967-65895070',
+  'nocache_hash' => '12075841154b2776d449818-37877760',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54ad7339a19c51_34562348',
+  'unifunc' => 'content_54b2776d780eb4_49848234',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54ad7339a19c51_34562348')) {function content_54ad7339a19c51_34562348($_smarty_tpl) {?><?php if (!is_callable('smarty_function_cycle')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/function.cycle.php';
+<?php if ($_valid && !is_callable('content_54b2776d780eb4_49848234')) {function content_54b2776d780eb4_49848234($_smarty_tpl) {?><?php if (!is_callable('smarty_function_cycle')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/function.cycle.php';
 if (!is_callable('smarty_modifier_date_format')) include '/Users/Nicklas/Documents/Web/Piercingbutikken.dk/tools/smarty/plugins/modifier.date_format.php';
 ?><?php if (isset($_smarty_tpl->tpl_vars['recent_posts']->value)&&count($_smarty_tpl->tpl_vars['recent_posts']->value)) {?>
 <?php $_smarty_tpl->tpl_vars['is_category'] = new Smarty_variable(false, null, 0);?> 

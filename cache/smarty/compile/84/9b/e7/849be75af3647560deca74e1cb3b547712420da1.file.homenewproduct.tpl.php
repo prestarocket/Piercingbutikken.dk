@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-07 18:56:08
+<?php /* Smarty version Smarty-3.1.19, created on 2015-01-11 14:15:23
          compiled from "/Users/Nicklas/Documents/Web/Piercingbutikken.dk/modules/homenewproduct/homenewproduct.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:190507252954ad7338d4a582-60625091%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:207079684454b2776bebc3d9-39479334%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '190507252954ad7338d4a582-60625091',
+  'nocache_hash' => '207079684454b2776bebc3d9-39479334',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54ad7338d9fd13_46916312',
+  'unifunc' => 'content_54b2776c0df674_96345284',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54ad7338d9fd13_46916312')) {function content_54ad7338d9fd13_46916312($_smarty_tpl) {?><!-- MODULE Home new Products -->
+<?php if ($_valid && !is_callable('content_54b2776c0df674_96345284')) {function content_54b2776c0df674_96345284($_smarty_tpl) {?><!-- MODULE Home new Products -->
 <?php if (isset($_smarty_tpl->tpl_vars['products']->value)&&$_smarty_tpl->tpl_vars['products']->value) {?>
 <section id="new-products_block_center_mod" class="block products_block flexslider_carousel_block clearfix">
 	<h4><a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('new-products'), ENT_QUOTES, 'UTF-8', true);?>
